@@ -1,7 +1,7 @@
 # SFTPDownloader
 Simple module built using [Paramiko](http://docs.paramiko.org/en/2.1/index.html) for downloading files via SSH.
 
-# Example Usage:
+## Example Usage:
 ```python
 import os
 
@@ -25,7 +25,7 @@ if __name__ == '__main__':
     main()
 ```
 
-# Output:
+## Output:
 ```
 brian@LAPTOP-071C4V5H MINGW64 ~/Documents/Workspace/Work Projects/orion-network-solutions/SFTPDownloader
 $ python "c:/Users/brian/Documents/Workspace/Work Projects/orion-network-solutions/SFTPDownloader/example.py"
