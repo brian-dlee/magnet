@@ -29,6 +29,5 @@ if __name__ == '__main__':
 ```
 brian@LAPTOP-071C4V5H MINGW64 ~/Documents/Workspace/Work Projects/orion-network-solutions/SFTPDownloader
 $ python "c:/Users/brian/Documents/Workspace/Work Projects/orion-network-solutions/SFTPDownloader/example.py"
-C:\Users\brian\.ssh\known_hosts
 Complete           100.0%
 ```

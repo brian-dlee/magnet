@@ -40,8 +40,6 @@ class SFTPDownloader(object):
         if not known_hosts_file:
             used_known_hosts_file = os.path.expanduser(os.path.join('~', '.ssh', 'known_hosts'))
 
-        print used_known_hosts_file
-
         host_keys = paramiko.util.load_host_keys(used_known_hosts_file)
         return host_keys.lookup(hostname).items()[0][1]
 
