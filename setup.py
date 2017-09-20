@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='tractor',
+    name='magnet',
     version='0.1.1',
     description='Module used to download files over SSH',
-    url='https://github.com/orionnetworksolutions/tractor',
+    url='https://github.com/brian-dlee/magnet',
     author='Brian Lee',
     author_email='briandl92391@gmail.com',
     license='MIT',
