@@ -8,7 +8,7 @@ setup(
     author='Brian Lee',
     author_email='briandl92391@gmail.com',
     license='MIT',
-    packages=['tractor'],
+    packages=['magnet'],
     install_requires=['paramiko', 'bunch'],
     zip_safe=True
 )
